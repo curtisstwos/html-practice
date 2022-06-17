@@ -1,2 +1,2 @@
-# html-practice
-Working with HTML
+# HTML Practice
+*Working with HTML*
